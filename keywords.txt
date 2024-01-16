@@ -1,0 +1,14 @@
+/*
+ * KEYWORDS
+ *
+ * Autor : Luck
+ *
+ * Data : 12/01/2024
+*/
+
+Porta_Leds          KEYWORD1
+set_portas          KEYWORD2
+configura_portas    KEYWORD3
+liga                KEYWORD4
+desliga             KEYWORD5
+pisca               KEYWORD6
